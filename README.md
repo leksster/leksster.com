@@ -6,6 +6,7 @@
 * DC8044 F33d (desc: DС8044 Kyiv Info Channel && Event announcements) [https://t.me/DC8044_Info]
 * RUH8 (desc: Sean Townsend (press-secretary of Ukrainian Cyber Alliance)) [https://t.me/ruheight]
 * DDOS по країні СЕПАРІВ [https://t.me/+97Y45he5lOI2ZTky]
+* disBalancer Channel (desc: A decentralized cybersecurity solution that performs stress testing to identify DDoS vulnerabilities and protect projects against fraudsters.) [https://t.me/disBalancer_Official]
 
 # Telegram chats
 * WebPwnChat (desc: В этом чате обсуждаются атаки и уязвимости на веб-приложения) [https://t.me/WebPwnChat]
