@@ -16,6 +16,7 @@
 
 # Repos
 * Fast cross-platform HTTP benchmarking tool written in Go [https://github.com/codesenberg/bombardier]
+* User-Bot for reporting russian propaganda channels. Юзер-Бот, що автоматизує репортування Телеграмм каналів пропагандистів. [https://github.com/Antcating/telegram_report_bot_ua]
 
 # Instructions
 * DDoS для початківців [https://telegra.ph/DDoS-dlya-pochatk%D1%96vc%D1%96v-02-25]
