@@ -8,10 +8,11 @@
 * DDOS по країні СЕПАРІВ [https://t.me/+97Y45he5lOI2ZTky]
 
 # Telegram chats
-* WebPwnChat (desc: В этом чате обсуждаются атаки и уязвимости на веб-приложения.) [https://t.me/WebPwnChat]
+* WebPwnChat (desc: В этом чате обсуждаются атаки и уязвимости на веб-приложения) [https://t.me/WebPwnChat]
+* Допомога новачка (desc: Тут допомагаємо новачкам освоїти ддос) [https://t.me/+OitO2YrQRnliNjZi]
 
 # Repos
 * Fast cross-platform HTTP benchmarking tool written in Go [https://github.com/codesenberg/bombardier]
 
 # Instructions
-TODO
+* DDoS для початківців [https://telegra.ph/DDoS-dlya-pochatk%D1%96vc%D1%96v-02-25]
