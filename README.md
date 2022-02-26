@@ -8,6 +8,7 @@
 * DDOS по країні СЕПАРІВ [https://t.me/+97Y45he5lOI2ZTky]
 * disBalancer Channel (desc: A decentralized cybersecurity solution that performs stress testing to identify DDoS vulnerabilities and protect projects against fraudsters.) [https://t.me/disBalancer_Official]
 * IT ARMY of Ukraine [https://t.me/itarmyofukraine2022]
+* x_Notes (desc: Cybersecurity Notes by Sergey @ximerus Khariuk) [https://t.me/x_notes]
 
 # Telegram chats
 * WebPwnChat (desc: В этом чате обсуждаются атаки и уязвимости на веб-приложения) [https://t.me/WebPwnChat]
