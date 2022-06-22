@@ -4,6 +4,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Bebas+Neue"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Open+Sans"
+    />
+
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-M5ND111TPK"
@@ -17,68 +27,75 @@
 
       gtag("config", "G-M5ND111TPK");
     </script>
-    <title>Hello, world!</title>
-  </head>
-  <style>
-    html,
-    body {
-      margin: 0;
-      height: 100%;
-    }
-
-    body {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-
-    video {
-      object-fit: fill;
-    }
-
-    button {
-      top: 0;
-      left: 0;
-      font-size: 3rem;
-      position: fixed;
-      background: none;
-      border: none;
-      padding: 10px;
-      cursor: pointer;
-      z-index: 1;
-    }
-  </style>
-  <body>
-    <button type="button" id="tgl">🔇</button>
-    <video
-      id="clip"
-      class="main-video"
-      width="100%"
-      height="100%"
-      autoplay
-      loop
-      muted
-    >
-      <source src="djprobass-and-hardimusic.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-
-    <script>
-      function toggleMuted() {
-        var video = document.getElementById("clip");
-        var button = document.getElementById("tgl");
-
-        if (video.muted) {
-          video.muted = false;
-          button.innerHTML = "🔉";
-        } else {
-          video.muted = true;
-          button.innerHTML = "🔇";
-        }
+    <style>
+      main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
       }
 
-      document.getElementById("tgl").addEventListener("click", toggleMuted);
-    </script>
+      h1 {
+        font-family: "Bebas Neue", Times, serif;
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1rem;
+        font-family: "Open Sans", Times, serif;
+        margin: 0.25rem 0;
+      }
+
+      a {
+        font-family: "Open Sans", Times, serif;
+        background-image: linear-gradient(
+          to right,
+          #4f86f7 0%,
+          #fae500 51%,
+          #4f86f7 100%
+        );
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        cursor: pointer;
+        text-decoration: none;
+        border: 0;
+        display: block;
+        padding: 1rem 4rem;
+        font-size: 2rem;
+      }
+
+      a:hover {
+        background-position: right center; /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+      }
+    </style>
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <main>
+      <h1>Dear friends of Ukraine from around the world!</h1>
+
+      <img width="400" src="main.jpg" alt="Bayraktar fundraising campaign" />
+      <a href="https://prytulafoundation.org/en/home/support_page">Join us</a>
+
+      <p>Join us to buy 3 “Bayraktar” drones for Ukrainian Air Force!</p>
+      <p>
+        Serhiy Prytula Charity Foundation is raising donations for 3 UAV
+        fighters "Bayraktar" to help UAF to protect our freedom.
+      </p>
+      <p>We need $15 million!</p>
+      <p>
+        It's the biggest fundraising campaign for Ukraine ever, and every
+        Dollar, Euro, Pound or Crypto coin matters in our fight for democracy
+        and freedom!
+      </p>
+    </main>
   </body>
 </html>
